@@ -1,4 +1,4 @@
-# Account Final Writer
+# Wangzai Final
 
 根据确认后的底稿、账号风格和平台规则生成终稿的 skill。
 
@@ -24,4 +24,4 @@
 
 ## 推荐配合
 
-先使用 `social-emotion-brief` 生成并确认底稿，再使用本 skill 生成终稿。
+先使用 `wangzai-brief` 生成并确认底稿，再使用本 skill 生成终稿。

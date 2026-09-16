@@ -22,4 +22,4 @@
 
 ## 注意
 
-本台账只管成文重复，不管底稿里的主机制。底稿主机制归 `social-emotion-brief` 的 `references/ledger.md` 管。
+本台账只管成文重复，不管底稿里的主机制。底稿主机制归 `wangzai-brief` 的 `references/ledger.md` 管。
